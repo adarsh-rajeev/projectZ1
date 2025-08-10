@@ -1,4 +1,5 @@
-# projectZ1
-Web Game in JS
+# project G1
 
-UNDER DEV.
+VAl STATS
+
+(a application/site to track player stats in valorant for free)
