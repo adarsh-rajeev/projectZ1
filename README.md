@@ -1,2 +1,4 @@
 # projectZ1
-Web Game in Java
+Web Game in JS
+
+UNDER DEV.
