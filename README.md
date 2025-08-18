@@ -2,4 +2,6 @@
 
 VAl STATS
 
-(a application/site to track player stats in valorant for free)
+(a application/site to track player stats in valorant)
+
+@contributing for opensource.
